@@ -1,5 +1,7 @@
 live:.cid.a1bad2a761c955d2
-https://drive.google.com/file/d/1zUVWinnbLJqQ8Ft1Nkag19hjGPCbAlbk/view?usp=sharing
+https://drive.google.com/file/d/1zUVWinnbLJqQ8Ft1Nkag19hjGPCbAlbk/view?usp=sharing(old)
+https://drive.google.com/file/d/1IpZfyY_kroY1Lhfr0_Kc9v7zaaaPz19Y/view?usp=sharing
+https://drive.google.com/file/d/1mGSuTQ_jAe5h-X3r2CZL-8FBAEtgD5aZ/view?usp=sharing(session server)
 # Codespaces .NET Core Starter #
 
 This project is a .NET Core starter for developers to use in Codespaces that includes basic system tools and extensions for .NET Core app development.
